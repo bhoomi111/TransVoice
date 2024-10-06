@@ -1,0 +1,5 @@
+sounddevice
+vosk
+googletrans==4.0.0-rc1
+gtts
+pyttsx3
